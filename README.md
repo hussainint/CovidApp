@@ -1,5 +1,7 @@
 # CovidApp
-This is a flutter app made for a competition. 
+This is a flutter app made for the event "Flutteristic". 
+
+During this tough times correct and proper information regarding the COVID-19 has become crucial. So this Apps aims to help people to make them aware of the virus, the symptoms, percautions, treatment etc. 
 
 # Video Demonstration of the CovidApp
 
